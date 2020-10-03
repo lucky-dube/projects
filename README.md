@@ -22,4 +22,4 @@ This project investigates the bivariate relationship between local authority mea
 
 #### State of the Unions
 
-This is the annex of a breifing paper published by the Adam Smith Institute. The paper provides analysis of data relating to the students' union sector and argues in favour of constraining political activity and recommends measures to improve service provision and student satisfaction. The .pdf file is a write-up of the data analysis carried out for the breifing paper.
+This is the annex of a breifing paper published by the Adam Smith Institute. The paper provides analysis of data relating to the students' union sector and advocates constraining political activity to free up resources, which can used to improve service provision. The .pdf file is a write-up of the data analysis carried out for the breifing paper.
