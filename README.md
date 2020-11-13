@@ -23,3 +23,9 @@ This project investigates the bivariate relationship between local authority mea
 #### State of the Unions
 
 This is the annex of a breifing paper published by the Adam Smith Institute. The paper provides analysis of data relating to the students' union sector and advocates constraining political activity to free up resources, which can used to improve service provision. The .pdf file is a write-up of the data analysis carried out for the breifing paper.
+
+#### Life expectancy and per capita GDP
+
+Abstract:
+
+This paper investigates the bivariate relationship between life expectancy and per capita GDP. Data on country level life expectancy and GDP per capita in 2017 are drawn from Gapminder.  The results find a statistically significant association between life expectancy and the logarithm of per capita GDP.
