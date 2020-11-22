@@ -29,3 +29,10 @@ This is the annex of a breifing paper published by the Adam Smith Institute. The
 Abstract:
 
 This paper investigates the bivariate relationship between life expectancy and per capita GDP. Data on country level life expectancy and GDP per capita in 2017 are drawn from Gapminder.  The results find a statistically significant association between life expectancy and the logarithm of per capita GDP.
+
+#### Dividends and earnings in the S&P 500 1871 - 2016
+
+Abstract:
+
+This paper investigates the relationship between dividends and earnings in the S\&P 500 in the 1871 to 2016 period. Data on dividends and earnings for the entire period are drawn from the US stock market dataset on Robert J. Shiller’s website. The results find that dividends are significantly associated with dividends in the previous year, and earnings in the current and previous years. The results also find that the ratio of dividends to income is not constant in the long run.
+
