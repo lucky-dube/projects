@@ -6,9 +6,9 @@ Key information:
 
 ##### All write-ups are .pdf files
 
-##### All data are .csv files
+##### All data files are .csv
 
-##### All code files are .R 
+##### All code files are .R
 
 ### Contents:
 
