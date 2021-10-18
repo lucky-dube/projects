@@ -12,11 +12,11 @@ Key information:
 
 ### Contents:
 
+#### Did the result of the EU referendum induce precautionary saving?
+This is a dissertation submitted as part of an MSc in Economics.It investigates the effect of the shock to economic policy uncertainty caused by the United Kingdom's vote to leave the European Union on household savings decisions in the nine months after the result of the referendum was announced. The results find no evidence of precautionary saving in response to Brexit. That there was no precautionary saving response suggests that households did not believe their jobs were at risk as a result of the Brexit vote.
+
 #### State of the Unions
 This is the annex of a breifing paper published by the Adam Smith Institute. The paper provides analysis of data relating to the students' union sector and advocates constraining political activity to free up resources, which can used to increase service provision. The .pdf file is a write-up of the data analysis I carried out for the breifing paper.
-
-#### Are you happier in town or the country
-This project investigates the bivariate relationship between local authority mean estimates for self-reported happiness in England and Scotland and the proportion of local authority population resident in rural areas. Data are drawn from the 2011/12 Office for National Statistics headline estimates for personal wellbeing, and DEFRA and Scottish Government rural-urban population data. The results find a statistically significant association between the two variables. Analysis of subsets of data relating to England and Scotland find the association is stronger in Scotland. The project concludes by suggesting areas for further study and how they can support the development of public policy.
 
 #### Life expectancy and per capita GDP
 This paper investigates the bivariate relationship between life expectancy and per capita GDP. Data on country level life expectancy and GDP per capita in 2017 are drawn from Gapminder.  The results find a statistically significant association between life expectancy and the logarithm of per capita GDP.
