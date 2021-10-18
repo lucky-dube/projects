@@ -1,6 +1,6 @@
 # Projects
 
-This repository contains write-ups, data, and code used to analyse data of projects carried out while undertaking post graduate studies in economics.
+This repository contains write-ups, data, and code used to analyse data of projects carried out while undertaking postgraduate studies in economics.
 
 Key information:
 
